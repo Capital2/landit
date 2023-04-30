@@ -5,8 +5,8 @@
       >
         <img
           class="animation__shake"
-          src="../assets/img/AdminLTELogo.png"
-          alt="AdminLTELogo"
+          src="../assets/img/magicrop.png"
+          alt="Magicrop logo"
           height="60"
           width="60"
         />
