@@ -17,11 +17,11 @@
       <div class="row">
         <div class="col-md-6">
           <div class="form-group">
-            <label>N</label>
+            <label>Sodium</label>
             <input class="form-control" style="width: 100%" v-model="n">
-            <label>P</label>
+            <label>Phosphore</label>
             <input class="form-control" style="width: 100%" v-model="p">
-            <label>K</label>
+            <label>Potassium</label>
             <input class="form-control" style="width: 100%" v-model="k">
           </div>
           <!-- /.form-group -->
